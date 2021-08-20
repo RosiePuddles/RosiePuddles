@@ -5,6 +5,11 @@ The most fun thing to take a look at is [fck](https://github.com/RosiePuddles/fc
 
 Anyway, enjoy life and have fun darling xx
 
-![](https://github-readme-stats.vercel.app/api?username=RosiePuddles&show_icons=true&hide=contribs&custom_title=Things%20I%20Done%20Did&theme=synthwave)
+<p align="center">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=RosiePuddles&show_icons=true&hide=contribs&custom_title=Things%20I%20done%20did&theme=synthwave">
+<!--   <br/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosiePuddles&layout=compact&custom_title=What%20I%20use&theme=synthwave"> -->
+  <br/>
+  <img width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=RosiePuddles&theme=synthwave&custom_title=What%20I%20has%20been%20doing">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RosiePuddles&layout=compact&custom_title=What%20I%20Use&theme=synthwave)
+</p>
