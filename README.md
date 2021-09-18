@@ -1,7 +1,9 @@
 ### RosiePuddles (she/they) 🏳️‍🌈🏳️‍⚧️
 Hihi. Welcome to my GitHub. It's a mess I know. There might be some useful things here is you look hard enough.
 
-The most fun thing to take a look at is [fck](https://github.com/RosiePuddles/fck). It's a compiled and interpereted language which is nice and fancy I think. And for those of you for whom English isn't your first language, fck has multilingual support!
+Despite the profile, my name is B, and I'm currently a student studying computer science. I have a specific interest in customisation, using code to make life easier, using code to waste time, and AI.
+
+The most interesting, and in all hoesty useful, thing I've written is [fck](https://github.com/fck-language/fck). It's the first coding language that can be used in multiple human languages! It's got a few other pretty cool features as well like trying to fix errors itself s you don't have to deal with them.
 
 Anyway, enjoy life and have fun darling xx
 
