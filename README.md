@@ -1,4 +1,4 @@
-### nxe (she/they) 🏳️‍🌈🏳️‍⚧️
+### nxe (they/she) 🏳️‍🌈🏳️‍⚧️
 Hihi. Welcome to my GitHub. It's a mess I know. There might be some useful things here is you look hard enough.
 
 Despite the profile, my name is nxe or B. I'm currently a student studying computer science, I'll never tell you where. I spend too much of my time writing esolangs for very specific purposes, customising things to an obnoxious degree, or not getting enough sleep.
