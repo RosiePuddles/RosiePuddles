@@ -1,16 +1,8 @@
 ### nxe (they/she) 🏳️‍🌈🏳️‍⚧️
-Hihi. Welcome to my GitHub. It's a mess I know. There might be some useful things here is you look hard enough.
+Hej
 
-Despite the profile, my name is nxe (pronounced nix) or B. I'm currently a student studying computer science, I'll never tell you where. I spend too much of my time writing esolangs for very specific purposes, customising things to an obnoxious degree, or not getting enough sleep.
+Despite the profile, my name is nxe (pronounced nix) or B. I study computers because I can and you can't stop me, and write a lot from scratch because I can and you can't stop me.
 
-The most interesting, and in all honesty useful, thing I've written is [fck](https://github.com/fck-language/fck). It's the first coding language that can be used in multiple human languages insterchangably! It's got a few other pretty cool features as well like trying to fix errors itself so you don't have to deal with them.
+I've written a [custom coding language](https://github.com/fck-language/fck) using some fun interesting concepts from automata theory to make things go fast and to enable the language to run with any set of keywords you want, so a multi-lingual programming language. Does it currently work? No. Am I working on it? Yes.
 
-Anyway, enjoy life and have fun darling xx
-
-<p align="center">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=RosiePuddles&show_icons=true&hide=contribs&custom_title=Things%20I%20done%20did&theme=synthwave">
-<!--   <br/>
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosiePuddles&layout=compact&custom_title=What%20I%20use&theme=synthwave"> -->
-  <br/>
-  <img width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=RosiePuddles&theme=synthwave&custom_title=What%20I%20has%20been%20doing">
-</p>
+Okay bye
